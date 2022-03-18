@@ -5,6 +5,6 @@ import org.junit.*;
 public class sdtest {
     @Test
     public void addition() {
-        assertEquals(2, 1 + 1);
+        assertEquals(3, 1 + 1);
     }
 }
